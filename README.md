@@ -1,2 +1,2 @@
-# This project is used for running Selenium in Eclips. 
-Open Gmail in FireFox. 
+# Selenium for Eclipse. 
+The purpose of this project is to open Gmail in FireFox. 
