@@ -1,2 +1,2 @@
 # Selenium for Eclipse. 
-The purpose of this project is to open Gmail in FireFox. 
+The purpose of this project is store info about Selenium. 
